@@ -141,6 +141,8 @@ Presentation & Communication • Team Collaboration
 
 ## 🤝 Let's connect!
 
-[![Gmail](https://img.icons8.com/color/24/000000/gmail-new.png) Email](mailto:vigneshramamoorthy04@gmail.com) &nbsp;|&nbsp;
-[![Portfolio](https://img.icons8.com/ios-filled/24/000000/domain.png) Portfolio](https://vickyr.netlify.app) &nbsp;|&nbsp;
-[![GitHub](https://img.icons8.com/ios-glyphs/24/000000/github.png) GitHub](https://github.com/vickii20) 
+<p>
+  <a href="mailto:vigneshramamoorthy04@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://vickyr.netlify.app"><img src="https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=About.me&logoColor=white" /></a>
+  <a href="https://github.com/vickii20"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p> 
