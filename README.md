@@ -1,11 +1,6 @@
 # Hi, I'm VIGNESH R 👋
 
 **Aspiring AI and Python Developer**
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vigneshramamoorthy04@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-222222?style=for-the-badge&logo=About.me&logoColor=white)](https://vickyr.netlify.app)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vickii20)
-
 📍 Madurai, Tamilnadu, India
 
 ---
