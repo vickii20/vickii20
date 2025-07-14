@@ -139,5 +139,8 @@ Presentation & Communication • Team Collaboration
 
 ---
 
-**Let's connect!**  
-[Email](mailto:vigneshramamoorthy04@gmail.com) | [Portfolio](https://vickyr.netlify.app) | [GitHub](https://github.com/vickii20) 
+## 🤝 Let's connect!
+
+[![Gmail](https://img.icons8.com/color/24/000000/gmail-new.png) Email](mailto:vigneshramamoorthy04@gmail.com) &nbsp;|&nbsp;
+[![Portfolio](https://img.icons8.com/ios-filled/24/000000/domain.png) Portfolio](https://vickyr.netlify.app) &nbsp;|&nbsp;
+[![GitHub](https://img.icons8.com/ios-glyphs/24/000000/github.png) GitHub](https://github.com/vickii20) 
